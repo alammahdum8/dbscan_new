@@ -3,6 +3,7 @@ Created on Feb 13, 2014
 
 @author: sushant
 '''
+from sklearn.cluster import DBSCAN
 import numpy as np
 
 class Cluster(object):
