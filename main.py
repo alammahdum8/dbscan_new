@@ -9,7 +9,7 @@ import re, csv, sys
 
 
 CONFIG = 'config'
-DATA = 'data/abc.csv'
+DATA = 'new.csv'
 
 def get_data(config):
     data = []
