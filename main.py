@@ -5,8 +5,8 @@ Created on Feb 13, 2014
 '''
 from tkinter import *
 from sklearn.cluster import DBSCAN
-import numpy as np
 from dbscanner import DBScanner
+import numpy as np
 import re, csv, sys
 
 
