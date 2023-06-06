@@ -2,7 +2,7 @@
 Created on Feb 13, 2014
 @author: sushant
 '''
-from tkinter import *
+# from tkinter import *
 from sklearn.cluster import DBSCAN
 from dbscanner import DBScanner
 import numpy as np
